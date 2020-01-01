@@ -173,6 +173,6 @@ Widget buildTextField(
         prefixText: prefix),
     style: TextStyle(color: Colors.amber, fontSize: 25.0),
     onChanged: f,
-    keyboardType: TextInputType.number,
+    keyboardType: TextInputType.numberWithOptions(decimal: true),
   );
 }
