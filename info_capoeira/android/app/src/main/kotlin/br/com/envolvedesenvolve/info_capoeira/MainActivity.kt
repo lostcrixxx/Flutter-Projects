@@ -1,4 +1,4 @@
-package br.com.envolvedesenvolve.info_capoeira
+package br.com.envolvedesenvolve.infocapoeira
 
 import io.flutter.embedding.android.FlutterActivity
 
