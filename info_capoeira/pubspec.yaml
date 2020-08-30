@@ -16,6 +16,7 @@ dependencies:
 
   http: ^0.12.2
   youtube_player_flutter: ^7.0.0+7
+  onesignal_flutter: ^2.6.1
 
 dev_dependencies:
   flutter_test:
